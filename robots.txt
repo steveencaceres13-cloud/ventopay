@@ -1,0 +1,6 @@
+# Publicar en https://davidvillarroel.com/robots.txt
+# Si ya tienes un robots.txt, fusiona estas líneas en lugar de reemplazarlo.
+User-agent: *
+Allow: /
+
+Sitemap: https://davidvillarroel.com/sitemap.xml

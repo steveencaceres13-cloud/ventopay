@@ -1,0 +1,18 @@
+# VentoPay
+
+> VentoPay es una plataforma de pagos rápidos e interoperabilidad bancaria: conecta cuentas de distintos bancos para enviar, cobrar y conciliar dinero en segundos.
+
+## Páginas principales
+
+- [VentoPay: inicio](https://davidvillarroel.com/ventopay/): beneficios, cómo funciona, casos de uso, preguntas frecuentes y solicitud de cuenta.
+
+## Casos de uso
+
+- Comercios: cobros con código en mostrador o en línea.
+- Nómina y proveedores: pagos en lote a cuentas de bancos distintos.
+- Entre personas: envíos con un alias.
+- Cobros recurrentes: suscripciones y cuotas con conciliación automática.
+
+## Nota
+
+Las cifras publicadas en el sitio (3 s, +40 entidades, 24/7, 99,98 %) son ilustrativas.
